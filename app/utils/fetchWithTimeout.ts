@@ -3,7 +3,7 @@ export async function fetchWithTimeout(
   options?: { timeout: number }
 ): Promise<Response> {
   const controller = new AbortController();
-  const id = setTimeout(() => controller.abort(), 500);
+  const id = setTimeout(() => controller.abort(), 1000);
   const response = await fetch(resource, {
     ...options,
     signal: controller.signal,
