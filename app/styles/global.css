@@ -1,0 +1,13 @@
+fieldset {
+    border-color: lightgray;
+    border-style: solid;
+}
+
+a {
+    color: dimgray;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: square;
+}
