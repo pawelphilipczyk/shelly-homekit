@@ -1,9 +1,29 @@
 import { Form, useSearchParams } from "@remix-run/react";
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import type { ShellyDevice } from "~/types";
+import { fetchWithTimeout } from "~/utils/fetchWithTimeout";
 
-const fetchShelly = (ip: string): Promise<ShellyDevice> =>
-  fetch(`/api/shelly/${ip}`).then((response) => response.json());
+const getIpsRange = () => {
+  const ips: string[] = [];
+  for (let i = 0; i <= 255; i++) ips.push(`192.168.88.${i}`);
+  return ips;
+};
+
+const isShellyDevice = (device: ShellyDevice) => Boolean(device.device_id);
+
+const getStoredDevices = () =>
+  JSON.parse(localStorage.getItem("shelly-devices") || "[]");
+
+const setStoredDevices = (devices: ShellyDevice[]) =>
+  localStorage.setItem("shelly-devices", JSON.stringify(devices));
+
+const fetchShelly = (ip: string): Promise<ShellyDevice> => {
+  const url = `http://${ip}/rpc/Shelly.GetInfo`;
+
+  return fetchWithTimeout(url)
+    .then((response) => response.json())
+    .catch((error) => new Error(error));
+};
 
 export default function Shelly() {
   const [searchParams, setSearchParams] = useSearchParams();
@@ -11,41 +31,44 @@ export default function Shelly() {
   const [isPending, setPending] = useState(false);
   const shouldRefresh = Boolean(searchParams.get("refresh"));
 
+  const scanDevices = useCallback(() => {
+    setPending(true);
+    const ips = getIpsRange();
+
+    const fetchIpBatch = () => {
+      const ipsBatch = ips.splice(0, 10);
+      if (ipsBatch.length > 0) {
+        Promise.all(ipsBatch.map(fetchShelly))
+          .then((responses) => responses.filter(isShellyDevice))
+          .then((devices) =>
+            setDevices((prevState) => [...prevState, ...devices])
+          )
+          .finally(fetchIpBatch);
+      } else {
+        setPending(false);
+        setDevices((devices) => {
+          setStoredDevices(devices);
+          return devices;
+        });
+      }
+    };
+    fetchIpBatch();
+  }, []);
+
   useEffect(() => {
     if (shouldRefresh) {
       localStorage.removeItem("shelly-devices");
       setDevices([]);
       setSearchParams({});
+      scanDevices();
     }
-  }, [shouldRefresh, setSearchParams]);
+  }, [shouldRefresh, setSearchParams, scanDevices]);
 
   useEffect(() => {
-    const storedDevices = JSON.parse(
-      localStorage.getItem("shelly-devices") || "[]"
-    );
+    const storedDevices = getStoredDevices();
     if (storedDevices.length) setDevices(storedDevices);
-    else {
-      setPending(true);
-      const requests = [];
-      for (let i = 1; i < 255; i++) {
-        requests.push(
-          fetchShelly(`192.168.88.${i}`).then((json) => {
-            if (json?.device_id) {
-              setDevices((prev) => [...prev, json]);
-            }
-          })
-        );
-      }
-
-      Promise.all(requests).then(() => {
-        setPending(false);
-        setDevices((devices) => {
-          localStorage.setItem("shelly-devices", JSON.stringify(devices));
-          return devices;
-        });
-      });
-    }
-  }, []);
+    else scanDevices();
+  }, [scanDevices]);
 
   return (
     <main
@@ -71,9 +94,9 @@ export default function Shelly() {
               </a>
             </li>
           ))}
-          {isPending && <li>Searching local network...</li>}
         </ul>
         <Form action="">
+          {isPending && <p>Scanning local network...</p>}
           <input type="hidden" name="refresh" value="true" />
           <button disabled={shouldRefresh}>Refresh</button>
         </Form>
