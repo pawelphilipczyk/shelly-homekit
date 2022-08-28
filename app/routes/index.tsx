@@ -81,25 +81,32 @@ export default function Shelly() {
       <header>
         <h1>Shelly Homekit Dashboard</h1>
       </header>
+      <Form action="">
+        {isPending && <p>Scanning local network...</p>}
+        <input type="hidden" name="refresh" value="true" />
+        <button disabled={shouldRefresh}>Refresh</button>
+      </Form>
+      <h2>Found {devices.length} devices</h2>
       <section>
-        <ul>
-          {devices.map((device) => (
-            <li key={device.name}>
-              <a
-                href={`http://${device.host}`}
-                target="_blank"
-                rel="noreferrer"
-              >
-                {device.name}
-              </a>
-            </li>
-          ))}
-        </ul>
-        <Form action="">
-          {isPending && <p>Scanning local network...</p>}
-          <input type="hidden" name="refresh" value="true" />
-          <button disabled={shouldRefresh}>Refresh</button>
-        </Form>
+        {devices.map((device) => (
+          <form key={device.name}>
+            <fieldset>
+              <h3>{device.name}</h3>
+              <dl>
+                <dt>Host</dt>
+                <dd>
+                  <a
+                    href={`http://${device.host}`}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    {device.host}
+                  </a>
+                </dd>
+              </dl>
+            </fieldset>
+          </form>
+        ))}
       </section>
     </main>
   );
