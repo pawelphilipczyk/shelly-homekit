@@ -1,0 +1,1529 @@
+[[redirects]]
+from = "/scan/192.168.88.1"
+to = "http://192.168.88.1/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.2"
+to = "http://192.168.88.2/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.3"
+to = "http://192.168.88.3/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.4"
+to = "http://192.168.88.4/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.5"
+to = "http://192.168.88.5/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.6"
+to = "http://192.168.88.6/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.7"
+to = "http://192.168.88.7/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.8"
+to = "http://192.168.88.8/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.9"
+to = "http://192.168.88.9/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.10"
+to = "http://192.168.88.10/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.11"
+to = "http://192.168.88.11/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.12"
+to = "http://192.168.88.12/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.13"
+to = "http://192.168.88.13/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.14"
+to = "http://192.168.88.14/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.15"
+to = "http://192.168.88.15/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.16"
+to = "http://192.168.88.16/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.17"
+to = "http://192.168.88.17/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.18"
+to = "http://192.168.88.18/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.19"
+to = "http://192.168.88.19/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.20"
+to = "http://192.168.88.20/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.21"
+to = "http://192.168.88.21/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.22"
+to = "http://192.168.88.22/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.23"
+to = "http://192.168.88.23/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.24"
+to = "http://192.168.88.24/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.25"
+to = "http://192.168.88.25/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.26"
+to = "http://192.168.88.26/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.27"
+to = "http://192.168.88.27/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.28"
+to = "http://192.168.88.28/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.29"
+to = "http://192.168.88.29/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.30"
+to = "http://192.168.88.30/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.31"
+to = "http://192.168.88.31/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.32"
+to = "http://192.168.88.32/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.33"
+to = "http://192.168.88.33/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.34"
+to = "http://192.168.88.34/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.35"
+to = "http://192.168.88.35/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.36"
+to = "http://192.168.88.36/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.37"
+to = "http://192.168.88.37/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.38"
+to = "http://192.168.88.38/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.39"
+to = "http://192.168.88.39/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.40"
+to = "http://192.168.88.40/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.41"
+to = "http://192.168.88.41/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.42"
+to = "http://192.168.88.42/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.43"
+to = "http://192.168.88.43/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.44"
+to = "http://192.168.88.44/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.45"
+to = "http://192.168.88.45/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.46"
+to = "http://192.168.88.46/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.47"
+to = "http://192.168.88.47/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.48"
+to = "http://192.168.88.48/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.49"
+to = "http://192.168.88.49/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.50"
+to = "http://192.168.88.50/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.51"
+to = "http://192.168.88.51/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.52"
+to = "http://192.168.88.52/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.53"
+to = "http://192.168.88.53/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.54"
+to = "http://192.168.88.54/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.55"
+to = "http://192.168.88.55/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.56"
+to = "http://192.168.88.56/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.57"
+to = "http://192.168.88.57/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.58"
+to = "http://192.168.88.58/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.59"
+to = "http://192.168.88.59/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.60"
+to = "http://192.168.88.60/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.61"
+to = "http://192.168.88.61/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.62"
+to = "http://192.168.88.62/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.63"
+to = "http://192.168.88.63/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.64"
+to = "http://192.168.88.64/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.65"
+to = "http://192.168.88.65/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.66"
+to = "http://192.168.88.66/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.67"
+to = "http://192.168.88.67/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.68"
+to = "http://192.168.88.68/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.69"
+to = "http://192.168.88.69/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.70"
+to = "http://192.168.88.70/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.71"
+to = "http://192.168.88.71/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.72"
+to = "http://192.168.88.72/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.73"
+to = "http://192.168.88.73/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.74"
+to = "http://192.168.88.74/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.75"
+to = "http://192.168.88.75/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.76"
+to = "http://192.168.88.76/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.77"
+to = "http://192.168.88.77/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.78"
+to = "http://192.168.88.78/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.79"
+to = "http://192.168.88.79/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.80"
+to = "http://192.168.88.80/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.81"
+to = "http://192.168.88.81/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.82"
+to = "http://192.168.88.82/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.83"
+to = "http://192.168.88.83/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.84"
+to = "http://192.168.88.84/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.85"
+to = "http://192.168.88.85/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.86"
+to = "http://192.168.88.86/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.87"
+to = "http://192.168.88.87/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.88"
+to = "http://192.168.88.88/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.89"
+to = "http://192.168.88.89/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.90"
+to = "http://192.168.88.90/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.91"
+to = "http://192.168.88.91/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.92"
+to = "http://192.168.88.92/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.93"
+to = "http://192.168.88.93/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.94"
+to = "http://192.168.88.94/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.95"
+to = "http://192.168.88.95/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.96"
+to = "http://192.168.88.96/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.97"
+to = "http://192.168.88.97/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.98"
+to = "http://192.168.88.98/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.99"
+to = "http://192.168.88.99/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.100"
+to = "http://192.168.88.100/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.101"
+to = "http://192.168.88.101/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.102"
+to = "http://192.168.88.102/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.103"
+to = "http://192.168.88.103/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.104"
+to = "http://192.168.88.104/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.105"
+to = "http://192.168.88.105/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.106"
+to = "http://192.168.88.106/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.107"
+to = "http://192.168.88.107/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.108"
+to = "http://192.168.88.108/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.109"
+to = "http://192.168.88.109/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.110"
+to = "http://192.168.88.110/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.111"
+to = "http://192.168.88.111/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.112"
+to = "http://192.168.88.112/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.113"
+to = "http://192.168.88.113/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.114"
+to = "http://192.168.88.114/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.115"
+to = "http://192.168.88.115/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.116"
+to = "http://192.168.88.116/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.117"
+to = "http://192.168.88.117/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.118"
+to = "http://192.168.88.118/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.119"
+to = "http://192.168.88.119/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.120"
+to = "http://192.168.88.120/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.121"
+to = "http://192.168.88.121/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.122"
+to = "http://192.168.88.122/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.123"
+to = "http://192.168.88.123/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.124"
+to = "http://192.168.88.124/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.125"
+to = "http://192.168.88.125/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.126"
+to = "http://192.168.88.126/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.127"
+to = "http://192.168.88.127/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.128"
+to = "http://192.168.88.128/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.129"
+to = "http://192.168.88.129/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.130"
+to = "http://192.168.88.130/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.131"
+to = "http://192.168.88.131/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.132"
+to = "http://192.168.88.132/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.133"
+to = "http://192.168.88.133/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.134"
+to = "http://192.168.88.134/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.135"
+to = "http://192.168.88.135/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.136"
+to = "http://192.168.88.136/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.137"
+to = "http://192.168.88.137/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.138"
+to = "http://192.168.88.138/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.139"
+to = "http://192.168.88.139/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.140"
+to = "http://192.168.88.140/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.141"
+to = "http://192.168.88.141/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.142"
+to = "http://192.168.88.142/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.143"
+to = "http://192.168.88.143/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.144"
+to = "http://192.168.88.144/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.145"
+to = "http://192.168.88.145/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.146"
+to = "http://192.168.88.146/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.147"
+to = "http://192.168.88.147/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.148"
+to = "http://192.168.88.148/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.149"
+to = "http://192.168.88.149/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.150"
+to = "http://192.168.88.150/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.151"
+to = "http://192.168.88.151/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.152"
+to = "http://192.168.88.152/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.153"
+to = "http://192.168.88.153/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.154"
+to = "http://192.168.88.154/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.155"
+to = "http://192.168.88.155/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.156"
+to = "http://192.168.88.156/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.157"
+to = "http://192.168.88.157/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.158"
+to = "http://192.168.88.158/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.159"
+to = "http://192.168.88.159/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.160"
+to = "http://192.168.88.160/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.161"
+to = "http://192.168.88.161/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.162"
+to = "http://192.168.88.162/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.163"
+to = "http://192.168.88.163/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.164"
+to = "http://192.168.88.164/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.165"
+to = "http://192.168.88.165/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.166"
+to = "http://192.168.88.166/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.167"
+to = "http://192.168.88.167/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.168"
+to = "http://192.168.88.168/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.169"
+to = "http://192.168.88.169/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.170"
+to = "http://192.168.88.170/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.171"
+to = "http://192.168.88.171/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.172"
+to = "http://192.168.88.172/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.173"
+to = "http://192.168.88.173/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.174"
+to = "http://192.168.88.174/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.175"
+to = "http://192.168.88.175/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.176"
+to = "http://192.168.88.176/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.177"
+to = "http://192.168.88.177/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.178"
+to = "http://192.168.88.178/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.179"
+to = "http://192.168.88.179/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.180"
+to = "http://192.168.88.180/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.181"
+to = "http://192.168.88.181/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.182"
+to = "http://192.168.88.182/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.183"
+to = "http://192.168.88.183/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.184"
+to = "http://192.168.88.184/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.185"
+to = "http://192.168.88.185/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.186"
+to = "http://192.168.88.186/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.187"
+to = "http://192.168.88.187/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.188"
+to = "http://192.168.88.188/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.189"
+to = "http://192.168.88.189/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.190"
+to = "http://192.168.88.190/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.191"
+to = "http://192.168.88.191/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.192"
+to = "http://192.168.88.192/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.193"
+to = "http://192.168.88.193/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.194"
+to = "http://192.168.88.194/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.195"
+to = "http://192.168.88.195/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.196"
+to = "http://192.168.88.196/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.197"
+to = "http://192.168.88.197/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.198"
+to = "http://192.168.88.198/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.199"
+to = "http://192.168.88.199/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.200"
+to = "http://192.168.88.200/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.201"
+to = "http://192.168.88.201/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.202"
+to = "http://192.168.88.202/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.203"
+to = "http://192.168.88.203/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.204"
+to = "http://192.168.88.204/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.205"
+to = "http://192.168.88.205/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.206"
+to = "http://192.168.88.206/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.207"
+to = "http://192.168.88.207/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.208"
+to = "http://192.168.88.208/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.209"
+to = "http://192.168.88.209/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.210"
+to = "http://192.168.88.210/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.211"
+to = "http://192.168.88.211/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.212"
+to = "http://192.168.88.212/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.213"
+to = "http://192.168.88.213/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.214"
+to = "http://192.168.88.214/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.215"
+to = "http://192.168.88.215/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.216"
+to = "http://192.168.88.216/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.217"
+to = "http://192.168.88.217/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.218"
+to = "http://192.168.88.218/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.219"
+to = "http://192.168.88.219/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.220"
+to = "http://192.168.88.220/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.221"
+to = "http://192.168.88.221/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.222"
+to = "http://192.168.88.222/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.223"
+to = "http://192.168.88.223/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.224"
+to = "http://192.168.88.224/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.225"
+to = "http://192.168.88.225/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.226"
+to = "http://192.168.88.226/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.227"
+to = "http://192.168.88.227/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.228"
+to = "http://192.168.88.228/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.229"
+to = "http://192.168.88.229/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.230"
+to = "http://192.168.88.230/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.231"
+to = "http://192.168.88.231/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.232"
+to = "http://192.168.88.232/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.233"
+to = "http://192.168.88.233/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.234"
+to = "http://192.168.88.234/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.235"
+to = "http://192.168.88.235/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.236"
+to = "http://192.168.88.236/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.237"
+to = "http://192.168.88.237/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.238"
+to = "http://192.168.88.238/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.239"
+to = "http://192.168.88.239/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.240"
+to = "http://192.168.88.240/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.241"
+to = "http://192.168.88.241/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.242"
+to = "http://192.168.88.242/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.243"
+to = "http://192.168.88.243/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.244"
+to = "http://192.168.88.244/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.245"
+to = "http://192.168.88.245/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.246"
+to = "http://192.168.88.246/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.247"
+to = "http://192.168.88.247/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.248"
+to = "http://192.168.88.248/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.249"
+to = "http://192.168.88.249/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.250"
+to = "http://192.168.88.250/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.251"
+to = "http://192.168.88.251/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.252"
+to = "http://192.168.88.252/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.253"
+to = "http://192.168.88.253/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.254"
+to = "http://192.168.88.254/rpc/Shelly.GetInfo"
+status = 200
+force = false
+
+[[redirects]]
+from = "/scan/192.168.88.255"
+to = "http://192.168.88.255/rpc/Shelly.GetInfo"
+status = 200
+force = false

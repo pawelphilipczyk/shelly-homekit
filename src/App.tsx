@@ -18,7 +18,8 @@ const setStoredDevices = (devices: ShellyDevice[]) =>
   localStorage.setItem("shelly-devices", JSON.stringify(devices));
 
 const fetchShelly = (ip: string): Promise<ShellyDevice> => {
-  const url = `http://${ip}/rpc/Shelly.GetInfo`;
+  // const url = `http://${ip}/rpc/Shelly.GetInfo`;
+  const url = `/scan/${ip}`;
 
   return fetchWithTimeout(url)
     .then((response) => response.json())
