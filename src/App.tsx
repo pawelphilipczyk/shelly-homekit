@@ -5,6 +5,7 @@ import "./App.css";
 
 const getIpsRange = () => {
   const ips: string[] = [];
+  return ['192.168.88.155'];
   for (let i = 0; i <= 255; i++) ips.push(`192.168.88.${i}`);
   return ips;
 };
@@ -18,8 +19,8 @@ const setStoredDevices = (devices: ShellyDevice[]) =>
   localStorage.setItem("shelly-devices", JSON.stringify(devices));
 
 const fetchShelly = (ip: string): Promise<ShellyDevice> => {
-  // const url = `http://${ip}/rpc/Shelly.GetInfo`;
-  const url = `/scan/${ip}`;
+  const isDev = import.meta.env.DEV;
+  const url = isDev ? `http://${ip}/rpc/Shelly.GetInfo` : `/scan/${ip}`;
 
   return fetchWithTimeout(url)
     .then((response) => response.json())
@@ -79,7 +80,9 @@ function App() {
       </header>
       <section>
         {isPending && <p>Scanning local network...</p>}
-        <button disabled={isPending} onClick={refreshDevices}>Refresh</button>
+        <button disabled={isPending} onClick={refreshDevices}>
+          Refresh
+        </button>
       </section>
       <h2>Found {devices.length} devices</h2>
       <section>
