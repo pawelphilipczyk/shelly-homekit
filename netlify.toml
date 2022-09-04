@@ -2,4 +2,4 @@
 from = "/scan/192.168.88.155"
 to = "http://192.168.88.155/rpc/Shelly.GetInfo"
 status = 200
-force = false
+force = true
